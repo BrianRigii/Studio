@@ -1,3 +1,6 @@
+.section{
+    margin-top: 15px;
+}
 .landing{
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
@@ -15,6 +18,20 @@
 
 .mouse {
     margin-top: 20vh;
+}
+
+.services{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.services h3  {
+    color: white;
+
+}
+.services p {
+    color: white;
+
 }
 
 
