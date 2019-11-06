@@ -36,11 +36,7 @@
     color: white;
 
 }
-    /* .potimg img{
-    width: 250px;
-    padding: 10px;
 
-    } */
 
 .contact{
     background-image: url("../assets/backgrounds/c_image.jpg");
@@ -48,7 +44,18 @@
     background-repeat: no-repeat;
     height: 50vh;
 }
-form{
-    background-color: tomato    ;
+form input{
+    background: rgba(0, 0,0,0.3);
+    color: white;
+    width: 50vh;
+    
+    
 }
-
+form textarea{
+    background: rgba(0, 0,0,0.3);
+    color: white;
+}
+.contact h3{
+    color: white;
+    
+}
