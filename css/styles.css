@@ -68,3 +68,7 @@ form textarea{
    .prodtxt{
        display: none;
    }
+
+   .icorow img{
+       padding:3vh
+   }

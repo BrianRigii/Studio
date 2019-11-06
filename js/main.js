@@ -31,3 +31,4 @@ $("#designimg").click(function() {
       console.log("hovered")
       $("this").addClass("mask");
   });
+  
