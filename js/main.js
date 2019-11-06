@@ -55,4 +55,13 @@ $("#work1").hover(function(){
     $("#3").addClass("box1")
   
   })
+
+  $("#work4").hover(function(){
+    $("#4").removeClass("box1")
+      $("#4").addClass("box10")
+  },function(){
+    $("#4").removeClass("box10")
+    $("#4").addClass("box1")
+  
+  })
   
