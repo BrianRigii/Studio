@@ -27,4 +27,23 @@ $("#designimg").click(function() {
     $("#prodtxt").addClass("prodtxt");
   });
   
+ 
+
+$("#work1").hover(function(){
+    $("#1").removeClass("box1")
+      $("#1").addClass("box10")
+  },function(){
+    $("#1").removeClass("box10")
+    $("#1").addClass("box1")
+  
+  })
+
+  $("#work1").hover(function(){
+    $("#1").removeClass("box1")
+      $("#1").addClass("box10")
+  },function(){
+    $("#1").removeClass("box10")
+    $("#1").addClass("box1")
+  
+  })
   
