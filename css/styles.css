@@ -73,14 +73,7 @@ form textarea{
        padding:3vh
    }
 
-.box1,
-.box2,
-.box3,
-.box4,
-.box5,
-.box6,
-.box7,
-.box8 {
+.box1 {
   position: absolute;
   top: 50%;
   left: 20%;
@@ -89,14 +82,8 @@ form textarea{
   padding: 12px;
   display: none;
 }
-.box10,
-.box2,
-.box3,
-.box4,
-.box5,
-.box6,
-.box7,
-.box8 {
+.box10
+{
   position: absolute;
   top: 50%;
   left: 20%;

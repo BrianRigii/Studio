@@ -38,12 +38,12 @@ $("#work1").hover(function(){
   
   })
 
-  $("#work1").hover(function(){
-    $("#1").removeClass("box1")
-      $("#1").addClass("box10")
+  $("#work2").hover(function(){
+    $("#2").removeClass("box1")
+      $("#2").addClass("box10")
   },function(){
-    $("#1").removeClass("box10")
-    $("#1").addClass("box1")
+    $("#2").removeClass("box10")
+    $("#2").addClass("box1")
   
   })
   
