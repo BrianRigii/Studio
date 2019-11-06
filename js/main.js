@@ -64,4 +64,15 @@ $("#work1").hover(function(){
     $("#4").addClass("box1")
   
   })
+
+  $("#work5").hover(function(){
+    $("#5").removeClass("box1")
+      $("#5").addClass("box10")
+  },function(){
+    $("#5").removeClass("box10")
+    $("#5").addClass("box1")
+  
+  })
+
+  
   
