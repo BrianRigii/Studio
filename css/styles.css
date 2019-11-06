@@ -45,10 +45,10 @@
     background-repeat: no-repeat;
     height: 50vh;
 }
-form input{
+.form-control{
     background: rgba(0, 0,0,0.3);
     color: white;
-    width: 50vh;
+
     
     
 }
