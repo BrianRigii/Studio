@@ -59,3 +59,12 @@ form textarea{
     color: white;
     
 }
+.designtxt{
+    display: none ;
+   }
+   .devtxt{
+       display: none ; 
+   }
+   .prodtxt{
+       display: none;
+   }
