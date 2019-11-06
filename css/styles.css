@@ -1,6 +1,9 @@
 .section{
     margin-top: 15px;
 }
+.section20{
+    margin-top: 40px;
+}
 .landing{
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
@@ -34,6 +37,15 @@
 
 }
 .potimg img{
-   width: 250px; 
+   width: 250px;
+   padding: 10px;
+
+}
+
+.contact{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
 }
 
