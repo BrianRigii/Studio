@@ -92,5 +92,14 @@ $("#work1").hover(function(){
   
   })
 
+  $("#work8").hover(function(){
+    $("#8").removeClass("box1")
+      $("#8").addClass("box10")
+  },function(){
+    $("#8").removeClass("box10")
+    $("#8").addClass("box1")
+  
+  })
+
 
   
