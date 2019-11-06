@@ -72,3 +72,20 @@ form textarea{
    .icorow img{
        padding:3vh
    }
+
+.box1,
+.box2,
+.box3,
+.box4,
+.box5,
+.box6,
+.box7,
+.box8 {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  padding: 12px;
+  display: none;
+}

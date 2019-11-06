@@ -27,8 +27,4 @@ $("#designimg").click(function() {
     $("#prodtxt").addClass("prodtxt");
   });
   
-  $("#pro2").hover(function() {
-      console.log("hovered")
-      $("this").addClass("mask");
-  });
   
