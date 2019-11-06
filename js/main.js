@@ -74,5 +74,23 @@ $("#work1").hover(function(){
   
   })
 
+  $("#work6").hover(function(){
+    $("#6").removeClass("box1")
+      $("#6").addClass("box10")
+  },function(){
+    $("#6").removeClass("box10")
+    $("#6").addClass("box1")
   
+  })
+
+  $("#work7").hover(function(){
+    $("#7").removeClass("box1")
+      $("#7").addClass("box10")
+  },function(){
+    $("#7").removeClass("box10")
+    $("#7").addClass("box1")
+  
+  })
+
+
   
