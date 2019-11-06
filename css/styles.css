@@ -36,16 +36,19 @@
     color: white;
 
 }
-.potimg img{
-   width: 250px;
-   padding: 10px;
+    /* .potimg img{
+    width: 250px;
+    padding: 10px;
 
-}
+    } */
 
 .contact{
     background-image: url("../assets/backgrounds/c_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 50vh;
+}
+form{
+    background-color: tomato    ;
 }
 
